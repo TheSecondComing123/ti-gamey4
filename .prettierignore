@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+.next/
+out/
+build/
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
+.env.production
+
+# Package manager
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Git
+.git/
+.gitignore
